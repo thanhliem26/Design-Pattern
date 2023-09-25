@@ -1,5 +1,6 @@
-//beginer
+//Stategy Pattern (Mô hình chiến lược)
 
+//beginer
 function getPrice_bg(originalPrice, typePromotion = 'default') {
     //Giảm giá khi đặt trước sản phẩm
     if(typePromotion == 'preOrder') {
